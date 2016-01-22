@@ -8,3 +8,11 @@
 #features {
     text-align: center;
 }
+
+.navbar {
+    background-color: #77b300;
+}
+
+li a {
+    color: white;
+}
